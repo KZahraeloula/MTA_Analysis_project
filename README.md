@@ -1,12 +1,15 @@
 # MTA Ridership Analysis
 
 What is the average daily ridership of OMNY and Metrocard users during the weekdays from 2022 to 2024?
+
   The average daily risership during a weekday was approximately 4,500 Metrocard   users and 2,400 OMNY users in 2022 and approximately 3,800 Metrocard users and 3,900 OMNY users so far in 2024.
 
 What is the average daily ridership of OMNY and Metrocard users during the weekends from 2022 to 2024?
+
   The average daily risership during a weekday was approximately 4,000 Metrocard   users and 2,400 OMNY users in 2022 and approximately 3,200 Metrocard users and 3,500 OMNY users so far in 2024.
 
 What is the historical daily total ridership of OMNY and Metrocard users during the weekdays?
+
   The number of Metrocard users has been decreasing since while the number of OMNY users has been increasincing at a high rate since February 2022. The historical daily total ridership shows that there is a seasonal variation of ridership, where there is a drop in ridership during the summer. This may be because people tend to use different modes of transportation over the summer like bike riding or walking. 
 
 What is the ridership revenue per borough?
